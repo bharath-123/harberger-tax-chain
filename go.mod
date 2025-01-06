@@ -27,7 +27,7 @@ require (
 	cosmossdk.io/api v0.8.0
 	cosmossdk.io/client/v2 v2.0.0-20241003135820-1195a4468f06
 	cosmossdk.io/collections v0.4.1-0.20240802064046-23fac2f1b8ab
-	cosmossdk.io/core v1.0.0-alpha.5
+	cosmossdk.io/core v1.0.0
 	cosmossdk.io/depinject v1.0.0
 	cosmossdk.io/log v1.4.1
 	cosmossdk.io/store v1.1.1-0.20240909133312-50288938d1b6
@@ -51,7 +51,7 @@ require (
 	cosmossdk.io/core/testing v0.0.0-20240913164418-aaf72f20c10b // indirect
 	cosmossdk.io/errors v1.0.1 // indirect
 	cosmossdk.io/math v1.3.0 // indirect
-	cosmossdk.io/schema v0.3.1-0.20240930054013-7c6e0388a3f9 // indirect
+	cosmossdk.io/schema v1.0.0 // indirect
 	cosmossdk.io/x/epochs v0.0.0-20240522060652-a1ae4c3e0337 // indirect
 	cosmossdk.io/x/gov v0.0.0-20231113122742-912390d5fc4a // indirect
 	cosmossdk.io/x/tx v0.13.5 // indirect
